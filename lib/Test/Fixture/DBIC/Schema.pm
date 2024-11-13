@@ -1,4 +1,5 @@
 package Test::Fixture::DBIC::Schema;
+# ABSTRACT: fixture data loader for DBIx::Class::Schema
 use strict;
 use warnings;
 our $VERSION = '0.04';
