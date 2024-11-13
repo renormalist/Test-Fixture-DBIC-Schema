@@ -1,6 +1,8 @@
 Revision history for Perl extension Test::Fixture::DBIC::Schema
 
 {{$NEXT}}
+
+0.051     2024-11-13
   - drop old self-contained Module::Install due to Perl deprecations
   - migrated distro maintenance to use Dist::Zilla
   - besides that no functional changes
